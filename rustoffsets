@@ -5,24 +5,24 @@
   ____) | |__| | \  /   _| |_| |____   | |    | | \ \| |__| |____) |  | |   
  |_____/ \____/   \/   |_____|______|  |_|    |_|  \_\\____/|_____/   |_|   
                                                                                                                          
-/// h:13:45(pm) d:09 m:07 y:2023
+/// h:15:05 d:09 m:07 y:2023
 
-int BaseNetworkable = 49999816 // "Signature": "BaseNetworkable_c*"
-int MainCamera_c = 50397592 // "Signature": "MainCamera_c*"
-int BaseGameMode = 49997744 // "Signature": "BaseGameMode_c*"
-int OcclusionCulling = 50464032 // "Signature": "OcclusionCulling_c*"
-int ConVar_Culling = 50094992 // "Signature": "ConVar_Culling_c*"
-int ConVar_Client = 50063392 // ConVar_Client_c*
-int TOD_Sky = 50159592 // "Signature": "TOD_Sky_c*"
-int ConVar_Graphics = 50227264 // "Signature": "ConVar_Graphics_c*"
-int ConVar_Admin_c = 50523648 // "Signature": "ConVar_Admin_c*"
-int ConsoleSystem_Index = 50372200 // "Signature": "ConsoleSystem_Index_c*"
-int oOcclusionCulling = 50464032 // "Signature": "OcclusionCulling_c*"
-int oLaserBeam = 50368328 // "Signature": "LaserBeam_c*"
-int oOutlineManager = 50513736 // "Signature": "OutlineManager_c*"
-int oWaterSystem = 50257632 // "Signature": "WaterSystem_c*"
-int oEffectNetwork = 50166584 // "Signature": "effectnetwork_c*"
-int oSkinnable = 50094232 // "Signature": "Skinnable_c*"
+int BaseNetworkable = 49999840 // "Signature": "BaseNetworkable_c*"
+int MainCamera_c = 50397640 // "Signature": "MainCamera_c*"
+int BaseGameMode = 49997768 // "Signature": "BaseGameMode_c*"
+int OcclusionCulling = 50464072 // "Signature": "OcclusionCulling_c*"
+int ConVar_Culling = 50095016 // "Signature": "ConVar_Culling_c*"
+int ConVar_Client = 50063424 // ConVar_Client_c*
+int TOD_Sky = 50159616 // "Signature": "TOD_Sky_c*"
+int ConVar_Graphics = 50227288 // "Signature": "ConVar_Graphics_c*"
+int ConVar_Admin_c = 50523688 // "Signature": "ConVar_Admin_c*"
+int ConsoleSystem_Index = 50372248 // "Signature": "ConsoleSystem_Index_c*"
+int oOcclusionCulling = 50464072 // "Signature": "OcclusionCulling_c*"
+int oLaserBeam = 50368360 // "Signature": "LaserBeam_c*"
+int oOutlineManager = 50513776 // "Signature": "OutlineManager_c*"
+int oWaterSystem = 50257664 // "Signature": "WaterSystem_c*"
+int oEffectNetwork = 50166608 // "Signature": "effectnetwork_c*"
+int oSkinnable = 50094256 // "Signature": "Skinnable_c*"
 
 
 int pflags = 1864 // "public BasePlayer.PlayerFlags playerFlags;"
